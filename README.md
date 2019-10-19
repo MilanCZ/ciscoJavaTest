@@ -1,6 +1,7 @@
 ## Milan Stepanek's Cisco Java test
 
 Implementation of first question is at src/main/java/stepanek/Question1.java
+
 Implementation of second question is at src/main/java/stepanek/Question2.java
 
 This is a Maven project, so to compile the code and run the tests that verify
